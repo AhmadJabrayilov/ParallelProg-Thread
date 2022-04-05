@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\bin\Debug\netcoreapp3.1\ParallelProg-Thread.exe
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\bin\Debug\netcoreapp3.1\ParallelProg-Thread.deps.json
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\bin\Debug\netcoreapp3.1\ParallelProg-Thread.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\bin\Debug\netcoreapp3.1\ParallelProg-Thread.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\bin\Debug\netcoreapp3.1\ParallelProg-Thread.dll
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\bin\Debug\netcoreapp3.1\ParallelProg-Thread.pdb
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\obj\Debug\netcoreapp3.1\ParallelProg-Thread.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\obj\Debug\netcoreapp3.1\ParallelProg-Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\obj\Debug\netcoreapp3.1\ParallelProg-Thread.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\obj\Debug\netcoreapp3.1\ParallelProg-Thread.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\obj\Debug\netcoreapp3.1\ParallelProg-Thread.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\obj\Debug\netcoreapp3.1\ParallelProg-Thread.dll
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\obj\Debug\netcoreapp3.1\ParallelProg-Thread.pdb
+C:\Users\User\Desktop\HOMETASKS\ParallelProg-Thread\ParallelProg-Thread\obj\Debug\netcoreapp3.1\ParallelProg-Thread.genruntimeconfig.cache
